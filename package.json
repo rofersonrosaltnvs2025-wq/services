@@ -1,0 +1,16 @@
+{
+  "name": "turbo-smm-panel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SMM panel starter compatible with common SMM provider APIs",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
